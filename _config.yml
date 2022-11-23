@@ -12,7 +12,7 @@ email: bing.wang@adfa.edu.au
 website: https://github.com/arielBWong
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics

@@ -84,7 +84,7 @@ content:
         sub_title: Associate Lecturer
         caption: October 2019 - Present
         quote: >
-          everything is optimization
+          Everything is optimization
         description: | # this will include new lines to allow paragraphs
             Expensive problems refer to optimization problems wherein evaluation of each solution can incur significant cost, either in the form of computation time or 
             financial investment. For such problems, it is important to control the number of evaluations while searching for optimal solutions. In this work, we look into 
@@ -109,7 +109,7 @@ content:
         sub_title: Ph.D project
         caption: August 2011 - March 2014
         quote: >
-            make sense of world from the eyes of agent 
+            Make sense of world from the eyes of agent 
         description: | # this will include new lines to allow paragraphs
             Without any prior knowledge, how could an artifical agent work out causal relations among its sensing data? In this project, we rely on association rule mining and
             neural netowrk to design a inference mechanism for artifical agent, so that it can learn to build a causal knowledge network from its observation. 
@@ -122,7 +122,7 @@ content:
         sub_title: Ph.D project
         caption: September 2009 - July 2011
         quote: >
-            brain is interesting 
+            Brain is interesting 
         description: | # this will include new lines to allow paragraphs
             Brain is mysterious. MRI techniques open a window for us to peek it. In this project, we use hidden Markov model to build an brain age estimator for assisting 
             doctors diagose mild cognitive impairment. Later development of this technqiue was purchased and adopted in a commercial hospital systems. 
